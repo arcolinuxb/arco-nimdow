@@ -26,8 +26,8 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="dwm"
-	dmDesktop="dwm"
+	desktop="nimdow"
+	dmDesktop="nimdow"
 
 	arcolinuxVersion='v24.03.01'
 
