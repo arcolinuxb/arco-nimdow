@@ -934,8 +934,7 @@ xfce4-taskmanager
 
 #desktop specific
 sxhkd
-autorandr
 nimdow-bin
-choosenim
-#nimble-git
-slstatus-git
+nim
+ttf-jetbrains-mono-nerd
+arcolinux-powermenu-git
