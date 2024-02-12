@@ -303,14 +303,14 @@ ttf-ubuntu-font-family
 ###themes
 #adapta-gtk-theme
 arc-gtk-theme
-arc-darkest-theme-git
+#arc-darkest-theme-git
 kvantum-qt5-git
 #kvantum-qt6-git
 #openbox-arc-git
 
 ###utilities
 arandr
-asciinema
+#asciinema
 bash-completion
 #baobab
 bat
@@ -373,7 +373,7 @@ rofi
 rxvt-unicode
 #simple-scan
 #shotwell
-speedtest-cli-git
+#speedtest-cli-git
 #telegram-desktop
 #timeshift
 tlp
@@ -388,8 +388,8 @@ w3m
 webkit2gtk
 wmctrl
 xapp
-xdo
-xdotool
+#xdo
+#xdotool
 xdg-desktop-portal-gtk
 #yt-dlp
 #youtube-dl
@@ -462,7 +462,7 @@ paru-bin
 #peek
 #pulseaudio-equalizer-ladspa
 python-pyparted
-#python-pywal
+python-pywal
 rate-mirrors-bin
 #scour
 #screenkey-git
@@ -494,7 +494,7 @@ arcolinux-alacritty-git
 arcolinux-arc-kde
 arcolinux-bin-git
 #arcolinux-btop-git
-#a-candy-beauty-icon-theme-git
+a-candy-beauty-icon-theme-git
 #arcolinux-common-git
 arcolinux-conky-collection-git
 #arcolinux-conky-collection-plasma-git
